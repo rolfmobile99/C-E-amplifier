@@ -11,9 +11,11 @@ a circuit that can be powered up and tested.
 
 The circuit board has the following features:
 * through-hole (TH) pads make it easy to solder and easy to find components
+* easy-to-access test points
 * input and output "DC blocking" capacitors (with a standard 5mm lead spacing)
 * fits commonly available NPN transistors with TO-92 package (2N3904, 2N2222, etc)
 * optional input potentiometer (e.g. Bourns 3386P series)
+* emitter bypass capacitor C3 allows two different footprints
 * easy to power with 9V battery (using a battery clip)
 
 
@@ -25,3 +27,5 @@ The circuit board has the following features:
 ## Circuit Board
 
 ![Common Emitter Amplifier - board](images/C-E-amp-pcb-prelim-sm.png)
+(actual dimensions: 45mm x 25mm)
+(board image is copyright (C) Rolf Widenfelt 2024)
