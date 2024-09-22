@@ -27,5 +27,7 @@ The circuit board has the following features:
 ## Circuit Board
 
 ![Common Emitter Amplifier - board](images/C-E-amp-pcb-prelim-sm.png)
+
 (actual dimensions: 45mm x 25mm)
+
 (board image is copyright (C) Rolf Widenfelt 2024)
