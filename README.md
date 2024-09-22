@@ -19,9 +19,9 @@ The circuit board has the following features:
 
 ## Schematic
 
-![Common Emitter Amplifier - schematic](images/C-E-amp-schem-prelim.png | width=535)
+![Common Emitter Amplifier - schematic](images/C-E-amp-schem-prelim.png)
 
 
 ## Circuit Board
 
-![Common Emitter Amplifier - board](images/C-E-amp-pcb-prelim.png | width=300)
+![Common Emitter Amplifier - board](images/C-E-amp-pcb-prelim-sm.png)
