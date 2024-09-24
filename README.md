@@ -31,3 +31,12 @@ The circuit board has the following features:
 (actual dimensions: 45mm x 25mm)
 
 (board image is copyright (C) Rolf Widenfelt 2024)
+
+
+## References
+
+There are many online resources about Common Emitter amplifiers.
+I highly recommend the tutorial videos from Prof. Danner (National University of Singapore).
+Here's one:
+
+[Common Emitter Gain Basics (#10-Transistors)](https://www.youtube.com/watch?v=jPYgXsMZwPA)
